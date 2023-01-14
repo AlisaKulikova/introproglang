@@ -3,8 +3,6 @@ int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
 if ( a > b )
 {
-    int max = a;
-    int min = b;
    System.Console.WriteLine("FirstNum = maximum");
    System.Console.WriteLine("SecondNum = minimum");
 }
