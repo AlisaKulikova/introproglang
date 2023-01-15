@@ -3,17 +3,13 @@ int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
 int c = Convert.ToInt32(Console.ReadLine());
 
-if (a > b )
-{
-    System.Console.WriteLine("FirstNum = maximum");
-}
+int result = a;
 
-else if ( b > c)
-{ 
-     System.Console.WriteLine("SecondNum = maximum");
-     
-}
-else 
-{
-     System.Console.WriteLine("ThirdNum = maximum");
-}
+
+if (a > b ) result = a;
+
+else if ( b > c) result = b;
+
+else result = c;
+Console.WriteLine("maximal number:");
+Console.WriteLine(result);
