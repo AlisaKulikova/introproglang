@@ -5,11 +5,9 @@ int c = Convert.ToInt32(Console.ReadLine());
 
 int result = a;
 
+if (b > result ) result = b;
 
-if (a > b ) result = a;
+if( c > result) result = c;
 
-else if ( b > c) result = b;
-
-else result = c;
 Console.WriteLine("maximal number:");
 Console.WriteLine(result);
