@@ -3,13 +3,13 @@ int ThirdFunction(int a)
 {
 int thirdnum = -1;
 
-if (a >= 100)
+if ( Math.Abs(a) >= 100)
 {
-while (a > 999)
+while (Math.Abs(a) > 999)
 {
-    a = a/10;
+    a = Math.Abs(a)/10;
 }
-thirdnum = a%10;
+thirdnum = Math.Abs(a)%10;
 }
 return thirdnum;
 
