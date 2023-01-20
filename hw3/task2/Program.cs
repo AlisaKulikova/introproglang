@@ -1,0 +1,12 @@
+﻿Console.WriteLine("Enter the coordinates of point A:");
+double ax = Convert.ToInt32(Console.ReadLine());
+double ay = Convert.ToInt32(Console.ReadLine());
+double az = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the coordinates of point B:");
+double bx = Convert.ToInt32(Console.ReadLine());
+double by = Convert.ToInt32(Console.ReadLine());
+double bz = Convert.ToInt32(Console.ReadLine());
+double d = Math.Sqrt(Math.Pow(bx-ax,2) + Math.Pow(by+ay,2) + Math.Pow(bz-az,2));
+Console.WriteLine("Distance between A and B:");
+Console.WriteLine(d);
+Console.WriteLine(Math.Round(d, 2, MidpointRounding.ToEven));

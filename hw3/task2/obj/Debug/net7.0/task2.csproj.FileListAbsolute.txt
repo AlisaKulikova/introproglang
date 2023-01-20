@@ -1,0 +1,15 @@
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\bin\Debug\net7.0\task2.exe
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\bin\Debug\net7.0\task2.deps.json
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\bin\Debug\net7.0\task2.dll
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\bin\Debug\net7.0\task2.pdb
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.dll
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\refint\task2.dll
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.pdb
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw3\task2\obj\Debug\net7.0\ref\task2.dll
