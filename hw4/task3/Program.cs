@@ -3,12 +3,12 @@
 Console.WriteLine("Enter an array of integers:");
 for (int i=0;i<8;i++)
 {
-    array[i]=Convert.ToInt32(Console.ReadLine());
+    array[i]=Convert.ToInt32(Console.ReadLine());  // вводим 8 элементов массива
 }
 
 for (int i = array.Length-1;i>=1;i--)
 {
-    int j = rnd.Next(i+1);
+    int j = rnd.Next(i);
     int buf = array[j];
     array [j] = array [i];
     array[i]= buf;
