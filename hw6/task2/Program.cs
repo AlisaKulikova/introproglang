@@ -1,11 +1,11 @@
 ﻿Console.WriteLine("Enter value B1:");
-double ba = Convert.ToInt32(Console.ReadLine());
+double ba = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Enter value K1:");
-double ka = Convert.ToInt32(Console.ReadLine());
+double ka = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Enter value B2:");
-double bb = Convert.ToInt32(Console.ReadLine());
+double bb = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Enter value K2:");
-double kb = Convert.ToInt32(Console.ReadLine());
+double kb = Convert.ToDouble(Console.ReadLine());
 if (ka==kb | ba==bb ) Console.WriteLine("Lines don't intersect");
 else 
 {
