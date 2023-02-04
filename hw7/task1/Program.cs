@@ -30,7 +30,7 @@ void PrintArray(double[,] array)
 {
     for(int j = 0;j<array.GetLength(1);j++)
     {
-        Console.Write($"{Math.Round(array[i,j],2)}  ");
+        Console.Write(String.Format("{0,7}", Math.Round(array[i,j],2)));
     }
     Console.WriteLine();
 }

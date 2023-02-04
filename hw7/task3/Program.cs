@@ -23,7 +23,7 @@ void PrintArray(int[,] array)
     {
     for(int j = 0;j<array.GetLength(1);j++)
         {
-        Console.Write( );
+        Console.Write(String.Format("{0,5}",array[i,j]));
         }
     Console.WriteLine();
     }
