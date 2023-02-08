@@ -30,7 +30,7 @@ FillArray(array);
 Console.WriteLine("Random array:");
 PrintArray(array);
 
- for (int q = 0; q <= m; q++)
+ for (int q = 0; q < m; q++)
 {
     
     for (int j = 0; j < array.GetLength(1)-1; j++)
