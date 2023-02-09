@@ -44,7 +44,7 @@ PrintArray(array);
             array[i,j]=array[i,j+1];
             array[i,j+1]=buf;
             }
-        }
+        } 
     }
 }
 Console.WriteLine();
