@@ -1,0 +1,15 @@
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\bin\Debug\net7.0\task4.exe
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\bin\Debug\net7.0\task4.deps.json
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\bin\Debug\net7.0\task4.dll
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\bin\Debug\net7.0\task4.pdb
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.csproj.AssemblyReference.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.dll
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\refint\task4.dll
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.pdb
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+C:\Users\FcknPW\Desktop\учеба\introproglang\hw8\task4\obj\Debug\net7.0\ref\task4.dll
