@@ -49,7 +49,7 @@ void PrintArray(int[,,] array)
             for (int k = 0; k < array.GetLength(2); k++)
             {
                 Console.Write(String.Format("{0,4}", (array[i, j, k] + "[" + i + "," + j + "," + k + "] ")));
-                Console.Beep();
+                //Console.Beep();
             }
             Console.WriteLine();
         }
